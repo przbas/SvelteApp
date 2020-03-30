@@ -1,0 +1,17 @@
+{
+    "spellright.language": [
+        "English (American)",
+        "Polish"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "svelte"
+    ],
+    "spellright.parserByClass": {
+        "svelte": {
+            "parser": "code"
+        }
+    }
+}
